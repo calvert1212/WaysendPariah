@@ -1,5 +1,7 @@
 # WAYSEND\ \PARIAH
 
+<img width="491" height="86" alt="Image" src="https://github.com/user-attachments/assets/409d220a-2008-4750-b908-b2a01c4dc581" />
+
 ## Overview
 WaysendPariah is a Unity-based 2D Asteroids-like space shooter combined with beat detection-enhanced gameplay camera control functionality for navigation in a 2D or 3D environment.
 
