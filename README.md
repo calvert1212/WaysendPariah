@@ -96,8 +96,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - FEATURED MUSICAL ARTISTS:
   - Kingslayer by Bring Me the Horizon ft. BABYMETAL. Sony Music Entertainment UK
     - https://www.youtube.com/watch?v=fKyXvNkGQKc
-  - CRAZY FUCKIN ROBOT BODY by SnowBlood, Mystery Skulls, and Gosteffects.
-    - https://www.youtube.com/watch?v=t3qIbFeOAWM
   - Cascada - Everytime We Touch (Fallen Superhero Hardstyle Remix)
     - https://www.youtube.com/watch?v=5u37UGiSiL8
   - Our Truth by Lacuna Coil. Century Media 2006.
@@ -105,6 +103,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ##Authors
 - Chad Calvert (https://github.com/calvert1212)
----
-
-*Note: This README is based on the ArrowMoveCam.cs component. The full project may contain additional features and functionality not covered in this documentation.*
